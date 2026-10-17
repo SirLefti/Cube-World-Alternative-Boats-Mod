@@ -5,6 +5,7 @@ one of the other two in its place, so the boat you summon is drawn with a model
 you otherwise never get to see.
 
 ![The three boat models](boat-models.png)
+
 *Left to right: `boat.cub`, `boat2.cub` and `boat3.cub`. The middle one is the
 vanilla boat, the other two are what `AlternativeBoat1.dll` and
 `AlternativeBoat3.dll` install.*
